@@ -2,4 +2,4 @@
 
 Add Feature Login
 
-Add fetaure register
+Add feature register
